@@ -6,6 +6,18 @@ body {
 }
 
 body {
-  max-width: 50rem;
+  max-width: 70rem;
   margin: 0 auto;
+}
+
+h1 {
+  font-size: x-large;
+}
+
+h2 {
+  font-size: large;
+}
+
+h3 {
+  font-size: medium;
 }
