@@ -1,3 +1,8 @@
+---
+layout: default-layout.njk
+title: Lista Alberto Maria
+---
+
 # Lista Nascita di Alberto Maria
 
 ![](Images/header.png "headers-image")
@@ -9,7 +14,6 @@ Questa lista è aperta presso il negozio [Chicco di Marcianise](https://www.face
 C'è la possibilità di scegliere un prodotto, lasciare una quota per esso oppure lasciare una quota libero al negozio che noi potremmo impiegare per acquisti futuri.
 
 (Dato il periodo Covid, se non avete la possibilità di recarvi in negozio si può contattare lo staff della Chicco per acquistare tramite bonifico)
-
 
 ### Scaldabiberon casa/auto
 
@@ -25,7 +29,7 @@ C'è la possibilità di scegliere un prodotto, lasciare una quota per esso oppur
 
 ### Prodotti pulizia nasale
 
-![](Images/image14.png "pulizianaso-image") 
+![](Images/image14.png "pulizianaso-image")
 ![](Images/image16.png "pulizianaso2-image")
 
 ### Detergenza
@@ -102,8 +106,4 @@ C'è la possibilità di scegliere un prodotto, lasciare una quota per esso oppur
 
 ![](Images/image26.png "piumino-image")
 
-
 ## Grazie!
-
-
-
