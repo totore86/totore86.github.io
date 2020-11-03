@@ -8,12 +8,10 @@ title: Lista Alberto Maria
 ![](/assets/Images/header.png "headers-image")
 
 Ciao a tutti, abbiamo pensato di racchiudere in questa lista le cose più carine ed utili per Alberto Maria.
-
 Questa lista è aperta presso il negozio [Chicco di Marcianise](https://www.facebook.com/NegozioChiccoMarcianise), [Via Madonna della Libera, 16](https://www.google.com/maps/place/Negozio+Chicco+Marcianise/@41.0346538,14.3074377,15z/data=!4m5!3m4!1s0x0:0x38de232bf7249e60!8m2!3d41.0346538!4d14.3074377), tel. [0823827818](tel:0823827818).
-
 C'è la possibilità di scegliere un prodotto, lasciare una quota per esso oppure lasciare una quota libero al negozio che noi potremmo impiegare per acquisti futuri.
 
-(Dato il periodo Covid, se non avete la possibilità di recarvi in negozio si può contattare lo staff della Chicco per acquistare tramite bonifico)
+#### (Dato il periodo Covid, se non avete la possibilità di recarvi in negozio si può contattare lo staff della Chicco per acquistare tramite bonifico)
 
 ### Scaldabiberon casa/auto
 
