@@ -27,7 +27,6 @@ C'è la possibilità di scegliere un prodotto, lasciare una quota per esso oppur
 
 ### Prodotti pulizia nasale
 
-![](/assets/Images/image14.png "pulizianaso-image")
 ![](/assets/Images/image16.png "pulizianaso2-image")
 
 ### Detergenza
